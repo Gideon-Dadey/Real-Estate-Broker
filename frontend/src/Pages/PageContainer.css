@@ -1,0 +1,17 @@
+.properties {
+    display: flex;
+    width:90%;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    margin: auto;
+}
+
+.no-property {
+    background-color: #efefef;
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
